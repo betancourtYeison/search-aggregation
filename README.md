@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+## Installation and Setup Instructions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Clone down this repository:
+  `git clone https://github.com/betancourtYeison/search-aggregation.git`
+
+- You will need `yarb` installed globally on your machine..
+
+- In order to install, please run the following command in CMD:
+  `yarn install`
+
+- Create a file on project root called `.env` with the keys as follow:
+
+```
+REACT_APP_API_KEY_GOOGLE=
+REACT_APP_CX_GOOGLE=
+REACT_APP_URL_GOOGLE=
+
+REACT_APP_API_KEY_BING=
+REACT_APP_URL_BING=
+```
 
 ## Available Scripts
 
