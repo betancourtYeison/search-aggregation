@@ -241,7 +241,7 @@ export default class Search extends Component<Props, State> {
     const { pageState, query, requestId, results } = this.state;
     const { q } = this.getQueryState();
     const queryClass = query ? 'active-search' : '';
-    console.log('children', children);
+
     return children({
       query: q,
       queryState: this.getQueryState(),
