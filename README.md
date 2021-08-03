@@ -3,8 +3,6 @@
 - Clone down this repository:
   `git clone https://github.com/betancourtYeison/search-aggregation.git`
 
-- You will need `yarb` installed globally on your machine..
-
 - In order to install, please run the following command in CMD:
   `yarn install`
 
